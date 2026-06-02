@@ -70,11 +70,11 @@
 Проживаю в Минске. Буду заинтересована как в работе в офисе, так и в гибриде либо удалёнке - имею опыт работы на всех видах.
 
 ### Социальные сети:
-* LinkedIn: [linkedin.com/in/darya-yarosh/](linkedin.com/in/darya-yarosh/)
+* LinkedIn: [linkedin.com/in/darya-yarosh/](https://linkedin.com/in/darya-yarosh/)
 * CodeWars: [https://www.codewars.com/users/darya-yarosh](https://www.codewars.com/users/darya-yarosh)
 
 ### Контакты:
-* Telegram: [t.me/@yds175](t.me/@yds175) - **Предпочтительно**
+* Telegram: [t.me/@yds175]( https://t.me/@yds175) - **Предпочтительно**
 * E-mail: <dashayarosh9@gmail.com>
 * Viber: +375292389617
 * Phone: +375292389617 (МТС) - если не отвечу с первого раза, то перезвоню
