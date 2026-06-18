@@ -74,7 +74,7 @@
 * CodeWars: [https://www.codewars.com/users/darya-yarosh](https://www.codewars.com/users/darya-yarosh)
 
 ### Контакты:
-* Telegram: [t.me/@yds175]( https://t.me/@yds175) - **Предпочтительно**
+* Telegram: [t.me/yds175]( https://t.me/yds175) - **Предпочтительно**
 * E-mail: <dashayarosh9@gmail.com>
 * Viber: +375292389617
 * Phone: +375292389617 (МТС) - если не отвечу с первого раза, то перезвоню
