@@ -11,31 +11,35 @@
 
 ### Pet-проекты, связанные с разработкой игр:
 
-**1) Playable ADS - Механика Drag-To-Collect (Pixi.JS)**
+**1) Playable ADS - Раскраска по номерам (Pixi.JS)**
+* Проект: https://github.com/darya-yarosh/PlayableADS_Coloring-Book
+* Демо: https://drive.google.com/drive/folders/1zE136phfl3JHkUlLLuSwDHTIjXXcTMZG?usp=sharing
+
+**2) Playable ADS - Механика Drag-To-Collect (Pixi.JS)**
 * Проект: https://github.com/darya-yarosh/PlayableADS_Drag-To-Collect
 * Демо: https://darya-yarosh.github.io/PlayableADS_Drag-To-Collect/
 
-**2) Арканоид (Pixi.JS)**
+**3) Арканоид (Pixi.JS)**
 * Проект: https://github.com/darya-yarosh/Arcanoid
 * Демо: https://yds-arcanoid.netlify.app
 
-**3) Крестики нолики (Pixi.JS)**
+**4) Крестики нолики (Pixi.JS)**
 * Проект: https://github.com/darya-yarosh/Tic-Tac-Toe 
 * Демо: https://yds-tic-tac-toe.netlify.app 
 
-**4) Клон игры Wordle**
+**5) Клон игры Wordle**
 * Проект: https://github.com/darya-yarosh/Joy-Of-React-Word-clone 
 
-**5) Создание персонажа через переключение вариантов частей тела**
+**6) Создание персонажа через переключение вариантов частей тела**
 * Проект: https://github.com/darya-yarosh/CSS-For-JS-Character-creator 
 
-**6) Музыкальная ритм игра на Python (pygame) с частью своих ассетов, созданных в Photoshop и Clip Studio Paint.**
+**7) Музыкальная ритм игра на Python (pygame) с частью своих ассетов, созданных в Photoshop и Clip Studio Paint.**
 * Проект: https://github.com/darya-yarosh/Gandalf-Dance 
 
-**7) Страница-открытка с акцентом на анимациях и стилях.**
+**8) Страница-открытка с акцентом на анимациях и стилях.**
 * Демо: https://q-hpb.netlify.app 
 
-**8) Проект по курсу PIXI.js c Udemy**
+**9) Проект по курсу PIXI.js c Udemy**
 * Проект: https://github.com/darya-yarosh/PixiJS-Course 
 
 ### Среды разработки:
@@ -44,7 +48,7 @@
 * Game Maker, Renpy - самостоятельное изучение.
 
 ### Требования к Playable Ads:
-* Знаю некоторые основные требования (размер билда, требования по отсутствию ссылок на сторонние сервисы, требования к аудио) к выпуску playable ads на Facebook, TikTok и прочих сервисах.
+* Знаю некоторые основные требования (размер билда, сборку под AppLovin, требования по отсутствию ссылок на сторонние сервисы, требования к аудио) к выпуску Playable ADS на Facebook, TikTok и прочих сервисах.
 
 ### Технические знания:
 * Canvas/WebGL;
