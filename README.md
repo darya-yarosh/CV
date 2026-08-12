@@ -1,8 +1,8 @@
 # CV - Резюме на должность Playable Ads Developer
 
-Меня зовут Ярош Дарья, и я - Frontend разработчик. 
+Меня зовут Ярош Дарья, и я - Junior Playable Ads Developer, бывший Middle Frontend разработчик. 
 
-Не смотря на мою "смежную" должность, я крайне заинтересована в игровой сфере, в том числе и Playable ads разработке, так как выбрала IT-сферу из-за возможности объединять творческое с техническим, и в надежде отыскать в этой сфере что-то близкое к играм! 
+Не смотря на мою предыдущую "смежную" должность, я крайне заинтересована в игровой сфере, в том числе и Playable ads разработке, так как выбрала IT-сферу из-за возможности объединять творческое с техническим, и в надежде отыскать в этой сфере что-то близкое к играм! 
 
 ## О себе и стеке:
 * Имею 2.5+ года корпоративного опыта.
@@ -12,8 +12,7 @@
 ### Pet-проекты, связанные с разработкой игр:
 
 **1) Playable ADS - Раскраска по номерам (Pixi.JS)**
-* Проект: https://github.com/darya-yarosh/PlayableADS_Coloring-Book
-* Демо: https://drive.google.com/drive/folders/1zE136phfl3JHkUlLLuSwDHTIjXXcTMZG?usp=sharing
+* Демо: https://yds-playableads-coloringbook.netlify.app
 
 **2) Playable ADS - Механика Drag-To-Collect (Pixi.JS)**
 * Проект: https://github.com/darya-yarosh/PlayableADS_Drag-To-Collect
