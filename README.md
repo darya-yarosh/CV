@@ -22,7 +22,7 @@
 · [Демо](https://darya-yarosh.github.io/PlayableADS_Drag-To-Collect/) · [Код](https://github.com/darya-yarosh/PlayableADS_Drag-To-Collect)
 
 **3. Арканоид**  
-· [Демо](https://yds-arcanoid.netlify.app) · [Код](https://github.com/darya-yarosh/Arcanoid)
+· [Демо](https://ydsarcanoid.netlify.app) · [Код](https://github.com/darya-yarosh/Arcanoid)
 
 **4. Крестики-нолики**  
 · [Демо](https://yds-tic-tac-toe.netlify.app)  
