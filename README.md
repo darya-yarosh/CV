@@ -27,7 +27,7 @@
 **4. Крестики-нолики**  
 · [Демо](https://yds-tic-tac-toe.netlify.app)  
 
-**5. Другие проекты**
+**5. Другие проекты**  
 · Клон Wordle (React) - [Код](https://github.com/darya-yarosh/Joy-Of-React-Word-clone)  
 · Музыкальная ритм-игра (Python, Pygame) - [Код](https://github.com/darya-yarosh/Gandalf-Dance)
 · Создание персонажа (CSS) - [Код](https://github.com/darya-yarosh/CSS-For-JS-Character-creator)  
