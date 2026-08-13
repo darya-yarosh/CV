@@ -2,80 +2,49 @@
 
 Меня зовут Ярош Дарья, и я - Playable Ads Developer, бывший Middle Frontend разработчик. 
 
-Не смотря на мою предыдущую "смежную" должность, я крайне заинтересована в игровой сфере, в том числе и Playable ads разработке, так как выбрала IT-сферу из-за возможности объединять творческое с техническим, и в надежде отыскать в этой сфере что-то близкое к играм! 
+Перехожу из Frontend-разработки в Playable Ads из любви к играм и возможности объединять творческое с техническим! 
 
-## О себе и стеке:
-* Имею 2.5+ года корпоративного опыта.
-* JavaScript - работаю с ним более 3 лет.
-* Занималась разработкой сайтов: от статичной верстки, до подключения логики обращений на API (и прочее).
+### 🛠️ Ключевые навыки
 
-### Pet-проекты, связанные с разработкой игр:
+- **PixiJS** — разработка playable ads и игр (портфолио ниже)
+- **JavaScript** — 3+ года, ES6+, TypeScript
+- **React, Redux** — коммерческий опыт
+- **AppLovin** — знаю требования к сборкам
+- **Платформы** — понимаю специфику TikTok, Facebook и других сервисов
+- **Оптимизация** — SVG, видео, фото, шрифты
 
-**1) Playable ADS - Раскраска по номерам (Pixi.JS)**
-* Демо: https://yds-playableads-coloringbook.netlify.app
+### 🎮 Пет-проекты (PixiJS)
 
-**2) Playable ADS - Механика Drag-To-Collect (Pixi.JS)**
-* Проект: https://github.com/darya-yarosh/PlayableADS_Drag-To-Collect
-* Демо: https://darya-yarosh.github.io/PlayableADS_Drag-To-Collect/
+**1. Playable ADS — Раскраска по номерам**  
+· [Демо](https://yds-playableads-coloringbook.netlify.app)
 
-**3) Арканоид (Pixi.JS)**
-* Проект: https://github.com/darya-yarosh/Arcanoid
-* Демо: https://yds-arcanoid.netlify.app
+**2. Playable ADS — Drag-To-Collect**  
+· [Демо](https://darya-yarosh.github.io/PlayableADS_Drag-To-Collect/) · [Код](https://github.com/darya-yarosh/PlayableADS_Drag-To-Collect)
 
-**4) Крестики нолики (Pixi.JS)**
-* Проект: https://github.com/darya-yarosh/Tic-Tac-Toe 
-* Демо: https://yds-tic-tac-toe.netlify.app 
+**3. Арканоид**  
+· [Демо](https://yds-arcanoid.netlify.app) · [Код](https://github.com/darya-yarosh/Arcanoid)
 
-**5) Клон игры Wordle**
-* Проект: https://github.com/darya-yarosh/Joy-Of-React-Word-clone 
+**4. Крестики-нолики**  
+· [Демо](https://yds-tic-tac-toe.netlify.app)  
 
-**6) Создание персонажа через переключение вариантов частей тела**
-* Проект: https://github.com/darya-yarosh/CSS-For-JS-Character-creator 
+**5. Другие проекты**
+· Клон Wordle (React) - [Код](https://github.com/darya-yarosh/Joy-Of-React-Word-clone)  
+· Музыкальная ритм-игра (Python, Pygame) - [Код](https://github.com/darya-yarosh/Gandalf-Dance)
+· Создание персонажа (CSS) - [Код](https://github.com/darya-yarosh/CSS-For-JS-Character-creator)  
+· Открытка с анимациями (Vanilla JS) - [Демо](https://q-hpb.netlify.app)
 
-**7) Музыкальная ритм игра на Python (pygame) с частью своих ассетов, созданных в Photoshop и Clip Studio Paint.**
-* Проект: https://github.com/darya-yarosh/Gandalf-Dance 
+### 📚 Дополнительные навыки
 
-**8) Страница-открытка с акцентом на анимациях и стилях.**
-* Демо: https://q-hpb.netlify.app 
-
-**9) Проект по курсу PIXI.js c Udemy**
-* Проект: https://github.com/darya-yarosh/PixiJS-Course 
-
-### Среды разработки:
-* Cocos Creator - изучаю (завершенного пет проекта, увы, не имею);
-* Unity - изучала в университете;
-* Game Maker, Renpy - самостоятельное изучение.
-
-### Требования к Playable Ads:
-* Знаю некоторые основные требования (размер билда, сборку под AppLovin, требования по отсутствию ссылок на сторонние сервисы, требования к аудио) к выпуску Playable ADS на Facebook, TikTok и прочих сервисах.
-
-### Технические знания:
-* Canvas/WebGL;
-* Правила семантической вёрстки;
-* Figma: делала как свои макеты, так и разбиралась в макетах по работе;
-* Jira, Miro, Trello;
-* git, GitHub;
-* Linux: основы (получены в рамках университетского обучения).
-* Английский: читаю документации, провожу ревью, веду код на английском, общаюсь с коллегами.
-
-### Оптимизация размера медиафайлов:
-* SVG-файлы, видеофайлы, фото.
-Готова учиться лучшим практикам по оптимизации остального!
-
-### Тестирование:
-* CI/CD: GitHub Actions;
-* Unit-tests: Jest, React testing library;
-* E2E-tests: Cypress.
-
-### Анимации:
-* По анимациям сейчас улучшаю свои навыки за счёт курса "Whimsical Animations" про JavaScript+CSS, от Joshua Comeau.
-
-### Особенности Android/IOS:
-* Готова ускоренно подтягивать знания
+- **Движки**: знакома с Cocos Creator (активно изучаю), Unity, Game Maker, Ren'Py
+- **Инструменты**: Git, GitHub, Figma, Jira, Miro, Trello. Дополнительно: Jest, Cypress, CI/CD (GitHub Actions)
+- **Анимации**: изучаю продвинутые техники (JavaScript+CSS)
+- **Английский**: читаю документацию, веду код, общаюсь с коллегами
 
 ## Общие сведения
 ### Формат работы:
-Проживаю в Минске. Буду заинтересована как в работе в офисе, так и в гибриде либо удалёнке - имею опыт работы на всех видах.
+* Локация: Минск. 
+* Режим: Готова к работе в офисе, гибриду или удалёнке.  
+* Занятость: Full-time / Part-time / Проектная работа.
 
 ### Социальные сети:
 * LinkedIn: [linkedin.com/in/darya-yarosh/](https://linkedin.com/in/darya-yarosh/)
@@ -84,7 +53,6 @@
 ### Контакты:
 * Telegram: [t.me/yds175]( https://t.me/yds175) - **Предпочтительно**
 * E-mail: <dashayarosh9@gmail.com>
-* Viber: +375292389617
 * Phone: +375292389617 (МТС) - если не отвечу с первого раза, то перезвоню
 
 ---
