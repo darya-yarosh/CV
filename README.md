@@ -6,7 +6,7 @@
 
 ### 🛠️ Ключевые навыки
 
-- **PixiJS** — разработка playable ads и игр (портфолио ниже)
+- **PixiJS** — разработка Playable Ads и игр (портфолио ниже)
 - **JavaScript** — 3+ года, ES6+, TypeScript
 - **React, Redux** — коммерческий опыт
 - **AppLovin** — знаю требования к сборкам
