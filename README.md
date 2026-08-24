@@ -14,26 +14,19 @@
 - **Оптимизация** — SVG, видео, фото, шрифты
 
 ### 🎮 Пет-проекты
-> **Ссылка** (на билды 1-3, 5 проектов): [Google Drive](https://drive.google.com/drive/u/2/folders/1hjxi2xj1XyRlV4gB5R-iJaTk7-qROQiG)
+> **Ссылка** (на билды проектов): [Google Drive](https://drive.google.com/drive/u/2/folders/1hjxi2xj1XyRlV4gB5R-iJaTk7-qROQiG)
 
-**1. Playable ADS (PixiJS) — Раскраска по номерам**  
-· [Демо](https://yds-playableads-coloringbook.netlify.app)
+| Вид | Технология | Название | Демо | Код | Размер HTML-файла |
+|:--------|:------:|:------:|:------:|:------:|------:|
+| Playable ADS | PixiJS | Раскраска по номерам | [Демо](https://yds-playableads-coloringbook.netlify.app) | - | 3.7 MB |
+| Playable ADS | PixiJS | Drag-To-Collect | [Демо](https://darya-yarosh.github.io/PlayableADS_Drag-To-Collect/) | [Код](https://github.com/darya-yarosh/PlayableADS_Drag-To-Collect) | 340 KB |
+| Game | PixiJS | Арканоид | [Демо](https://ydsarcanoid.netlify.app) | [Код](https://github.com/darya-yarosh/Arcanoid) | 3.3 MB |
+| Game | PixiJS | Крестики-нолики | [Демо](https://yds-tic-tac-toe.netlify.app) | - | - |
+| Game | ThreeJS | Sonic X | [Демо](https://yds-sonicx.netlify.app) | - | 2.1 MB |
 
-**2. Playable ADS (PixiJS) — Drag-To-Collect**  
-· [Демо](https://darya-yarosh.github.io/PlayableADS_Drag-To-Collect/) · [Код](https://github.com/darya-yarosh/PlayableADS_Drag-To-Collect)
-
-**3. Game (PixiJS) - Арканоид**  
-· [Демо](https://ydsarcanoid.netlify.app) · [Код](https://github.com/darya-yarosh/Arcanoid)
-
-**4. Game (PixiJS) - Крестики-нолики**  
-· [Демо](https://yds-tic-tac-toe.netlify.app)  
-
-**5. Game (ThreeJS) - Sonic X**  
-· [Демо](https://yds-sonicx.netlify.app)  
-
-**6. Другие проекты**  
+**Другие проекты**  
 · Клон Wordle (React) - [Код](https://github.com/darya-yarosh/Joy-Of-React-Word-clone)  
-· Музыкальная ритм-игра (Python, Pygame) - [Код](https://github.com/darya-yarosh/Gandalf-Dance)
+· Музыкальная ритм-игра (Python, Pygame) - [Код](https://github.com/darya-yarosh/Gandalf-Dance)  
 · Создание персонажа (CSS) - [Код](https://github.com/darya-yarosh/CSS-For-JS-Character-creator)  
 · Открытка с анимациями (Vanilla JS) - [Демо](https://q-hpb.netlify.app)
 
