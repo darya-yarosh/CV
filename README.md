@@ -19,7 +19,7 @@
 | Вид | Технология | Название | Демо | Код | Размер HTML-файла |
 |:--------|:------:|:------:|:------:|:------:|------:|
 | Playable ADS | PixiJS | Раскраска по номерам | [Демо](https://yds-playableads-coloringbook.netlify.app) | - | 3.7 MB |
-| Playable ADS | PixiJS | Drag-To-Collect | [Демо](https://darya-yarosh.github.io/PlayableADS_Drag-To-Collect/) | [Код](https://github.com/darya-yarosh/PlayableADS_Drag-To-Collect) | 340 KB |
+| Playable ADS | PixiJS | Drag-To-Collect | [Демо](https://yds-stars-destroyer.netlify.app) | [Код](https://github.com/darya-yarosh/PlayableADS_Drag-To-Collect) | 340 KB |
 | Game | PixiJS | Арканоид | [Демо](https://ydsarcanoid.netlify.app) | [Код](https://github.com/darya-yarosh/Arcanoid) | 3.3 MB |
 | Game | PixiJS | Крестики-нолики | [Демо](https://yds-tic-tac-toe.netlify.app) | - | - |
 | Game | ThreeJS | Sonic X | [Демо](https://yds-sonicx.netlify.app) | - | 2.1 MB |
